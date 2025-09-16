@@ -4,3 +4,9 @@ a. pros
    cons
     - Less predictable, requirements can be changed mid-project, it can be hard to predict exact timelines and costs.
     - High collaboration demand, agile requires continuous communication and stakeholder involvement.
+b. scrum master
+    - Ensures the scrum framework is followed and helps the team work effectively.
+    - Facilitate scrum ceremonies and coach the development team.
+   product owner
+    - Represents the customer/stakeholders and defines what the team should build.
+    - Define and communicate project vision and goals.
