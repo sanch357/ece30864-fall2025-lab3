@@ -1,0 +1,6 @@
+a. pros
+    - Flexibility and adaptability, agile allows teams to adjust requirements and priorities as the project evolves.
+    - Faster feedback and delivery, work is delivered in small increments, so feedback can be given early and often.
+   cons
+    - Less predictable, requirements can be changed mid-project, it can be hard to predict exact timelines and costs.
+    - High collaboration demand, agile requires continuous communication and stakeholder involvement.
