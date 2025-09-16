@@ -10,3 +10,12 @@ b. scrum master
    product owner
     - Represents the customer/stakeholders and defines what the team should build.
     - Define and communicate project vision and goals.
+c. sprint planning
+    - Which product backlog items should be pulled into the sprint backlog.
+    - How will the team complete the selected work.
+   daily scrum
+    - What was completed since the last daily scrum.
+    - What will be worked on today.
+   sprint review
+    - Presentation of the increment.
+    - Feedback from stakeholders on what was delivered and possible adjustments to the backlog.
